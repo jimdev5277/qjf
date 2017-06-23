@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+node_modules
+server/public
+server/views
+.gulp-scss-cache
+.sass-cache
